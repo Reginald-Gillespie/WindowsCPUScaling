@@ -1,0 +1,1 @@
+powercfg /s 06250dd8-4de5-43e8-81d7-f789832dea9a
